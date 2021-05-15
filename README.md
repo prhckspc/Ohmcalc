@@ -1,3 +1,3 @@
 # Ohmcalc
 Ohm Calculator
-Work in progress :D
+(Work in progress :D)
