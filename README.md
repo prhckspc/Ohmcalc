@@ -1,3 +1,5 @@
 # Ohmcalc
 Ohm Calculator
-![alt text](https://github.com/prhckspc/Ohmcalc/screenshots/1.jpg?raw=true) <br>
+<img align="left" width="100" height="100" src="https://github.com/prhckspc/Ohmcalc/blob/main/screenshots/1.png"> <br>
+<img align="left" width="100" height="100" src="https://github.com/prhckspc/Ohmcalc/blob/main/screenshots/2.png"> <br>
+<img align="left" width="100" height="100" src="https://github.com/prhckspc/Ohmcalc/blob/main/screenshots/3.png">
